@@ -1,0 +1,1 @@
+take the idea below and generate a specification for an app for it.
