@@ -1,1 +1,1 @@
-take the idea below and generate a specification for an app for it.
+Take the idea described below and generate a detailed specification for an app, including its features, functionality, user interface design, and technical requirements.
